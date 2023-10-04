@@ -85,3 +85,5 @@ reset_button = tkinter.Button(text="Reset", highlightthickness=0, borderwidth=2,
 reset_button.grid(row=2, column=2)
 
 window.mainloop()
+
+#end of program
